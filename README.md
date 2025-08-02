@@ -1,92 +1,69 @@
-# 👋 Hi, I'm Buneshwar Milind Tendulkar
+# 👋 Hello, I'm Buneshwar Milind Tendulkar
 
-🚀 Software Engineer | 🔐 System Designer | ⚙️ Product Architect  
 📍 Pune, India  
 📧 buneshwarten@gmail.com  
 📱 +91-7020975836  
-🔗 [LinkedIn](https://linkedin.com/in/buneshwar-tendulkar-2a26b0181)
+🔗 [LinkedIn](https://linkedin.com/in/buneshwar-tendulkar-2a26b0181)  
+🔗 [GitHub](https://github.com/buneshwar1313)
 
 ---
 
-> 💬 *“Turning coffee into scalable code — one commit at a time.”*
+> 🧠 *"The fastest systems aren't built by chance — they're designed with intention."*
 
 ---
 
-## 🧠 About Me
+## 💡 What I Do
 
-I'm a passionate Software Engineer with experience in building secure, scalable full-stack web applications and APIs. I specialize in Python (Django, DRF) and React, with a proven track record in the fitness industry, payment gateways, and HRMS platforms. From role-based systems to API-centric architectures, I thrive in high-impact, performance-driven environments.
+I help teams and businesses turn complex systems into simple, scalable products.
 
----
+Whether it's launching a platform, fixing performance bottlenecks, or scaling a product to support thousands of users — I focus on **architecture**, **efficiency**, and **long-term clarity**.
 
-## 🛠️ Tech Stack
+> 🧠 *“The best products are built by those who understand both systems and people.”*
 
-**💻 Languages & Frameworks**  
-`Go` · `Python` · `Django` · `Django REST Framework` · `FastAPI` · `Flask` · `React` · `Next.js` · `TypeScript`
+My experience spans:
 
-**🗃️ Databases & Data Tools**  
-`PostgreSQL` · `SQL` · `Redis` · `Pandas` · `PySpark`
-
-**☁️ Cloud & DevOps**  
-`AWS (EC2, S3, CloudWatch)` · `Docker` · `Nginx` · `Gunicorn` · `RabbitMQ` · `Celery`
-
-**📊 Monitoring & Observability**  
-`Datadog` → `Coralogix` (Migration Experience)  
-`Sentry` · `Grafana` · `Prometheus`
-
-**💼 Domain Expertise**  
-- 🧘‍♂️ **Fitness Tech**: Scheduling, attendance, IDP, billing, and engagement tools  
-- 💳 **Payments**: Gift cards, payment API integration, payouts, refunds  
-- 🧑‍💼 **HRMS**: Role-based access control (RBAC), dynamic fields, permission models  
-- 📈 **System Design**: Scalable APIs, caching strategies, background job management
+- ⚙️ Building platforms that grow without breaking
+- 🚀 Speeding up APIs from seconds to milliseconds
+- 📈 Designing reporting systems that handle scale
+- 🔐 Creating secure flows for payments, roles, and user permissions
+- 🔄 Refactoring slow, legacy systems into lean, maintainable services
 
 ---
 
-## 🏗️ System Design & Product Expertise
+## 🧭 Guiding Principles
 
-- ⚙️ **High-Level System Design**: Scalable microservices, Redis caching, async processing  
-- 🔐 **Secure API Architecture**: Token auth, OAuth2, RBAC, audit logging  
-- 📦 **Product Development**: MVP to production, performance-first coding, and API-first approach  
-- ☁️ **Cloud Native**: Dockerized deployments, AWS cost optimization, CI/CD pipelines  
-- 🛠️ **Legacy Refactoring**: Migrating from Python monoliths to performant Go microservices
-
-💬 *Need help setting up or scaling a SaaS product, HRMS, or fitness platform? Let's collaborate!*
+- **Start simple, scale smart**  
+- **Every system should explain itself**  
+- **Secure by default, fast by design**  
+- **Optimization is not guessing — it’s measurement + clarity**  
+- **Code is a tool. Systems are the product.**
 
 ---
 
-## 🔧 What I'm Currently Working On
+## 🔍 Recent Focus
 
-- ⚡ Optimizing **large-scale reporting systems** using **Go (Golang)** for high concurrency and speed  
-- 📊 Designing robust **data backup strategies** for consistent recovery and performance  
-- 🚀 Creating **performance improvement strategies** to reduce CPU use and speed up APIs  
-- 💳 Integrating and refining **payment flows** and billing systems in fitness applications  
-- 🧘 Building and enhancing HRMS and fitness product infrastructure with fast, secure APIs
-
----
-
-## 📂 Highlighted GitHub Projects
-
-> *(Add links to your projects once they are public)*
-
-- 🚀 [HRMS with Dynamic Role Management](https://github.com/your-username/project-name)
-- 💳 [Fitness Payments & Gift Card API](https://github.com/your-username/project-name)
-- 📊 [Go-Based Report Optimizer & Backup Tool](https://github.com/your-username/project-name)
+- Improving system response time by **50–70%** through architectural restructuring  
+- Leading migrations from monolithic backends to modular, service-oriented setups  
+- Developing **cost-efficient infrastructure** strategies on AWS  
+- Designing **clean backup & recovery flows** for data-critical systems  
+- Streamlining **payment and billing logic** for growing platforms
 
 ---
 
-## 📈 GitHub Stats & Activity
+## 📘 Projects in Progress
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=buneshwar1313&show_icons=true&theme=radical&count_private=true&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=buneshwar1313&layout=compact&theme=radical&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com?user=buneshwar1313&theme=radical&hide_border=true)
+> (Links coming soon)
 
----
-
-## 🤝 Connect with Me
-
-- 📧 **Email:** buneshwarten@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/buneshwar-tendulkar-2a26b0181](https://linkedin.com/in/buneshwar-tendulkar-2a26b0181)  
-- 💻 **GitHub:** [github.com/buneshwart](https://github.com/buneshwar1313)
+- 🔄 Dynamic role & permission engine with audit logging  
+- 💳 Modular payments infrastructure for subscription-based platforms  
+- 📊 Fast, resumable reporting system for analytics-heavy applications
 
 ---
 
-> 🧠 *“Good engineers solve problems. Great engineers build systems that prevent them.”*
+## 🧠 Final Thought
+
+> *“Good code works. Great systems last.”*
+
+If you're building something that needs to be **fast**, **secure**, and **ready to grow**, I’d love to hear more.
+
+Let's connect.
